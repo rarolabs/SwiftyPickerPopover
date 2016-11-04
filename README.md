@@ -20,8 +20,7 @@ Popover with Picker by Swift 2.3 for iPhone/iPad, iOS9+.
 MIT.
 
 ## Screenshots
-<img src="README_resources/StringPickerPopover.jpeg" width="400">
-<img src="README_resources/ClearableDatePicker.jpeg" width="400">
+<img src="README_resources/SwiftyPickerPopover_movie.gif" width="362">
 
 ## Usage
 For Installing with CocoaPods, specify it in your 'Podfile'.
